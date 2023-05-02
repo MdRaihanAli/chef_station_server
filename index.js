@@ -10,13 +10,12 @@ app.get('/',(req, res)=>{
     res.send(allData)
 })
 
+
 app.get('/recipies/:id', (req,res)=>{
     const id = req.params.id
     const singleData = allData.find(n=>n.id== id)
     res.send(singleData)
 })
-
-
 
 
 app.listen(port)

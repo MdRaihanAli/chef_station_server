@@ -1,0 +1,161 @@
+[
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "experiance" : 4,
+        "like" : 503,
+        "rating": 4.8,
+        "ingredients": [
+          "1 pound spaghetti",
+          "8 ounces pancetta or bacon, chopped",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup freshly grated Parmesan cheese",
+          "1/4 cup chopped fresh parsley",
+          "Salt and freshly ground black pepper"
+        ],
+        "recipes": [
+          "Cook spaghetti according to package instructions.",
+          "In a large skillet, cook pancetta or bacon over medium heat until crispy. Add garlic and cook until fragrant.",
+          "In a bowl, whisk together eggs and Parmesan cheese.",
+          "Drain spaghetti and add to the skillet with pancetta/bacon. Remove from heat and let cool for a minute or two.",
+          "Add egg mixture to skillet and toss until spaghetti is coated. Add parsley and season with salt and pepper to taste."
+        ],
+        "details": "Spaghetti carbonara is a classic Italian dish that features a creamy sauce made with eggs and Parmesan cheese. The dish is typically served with crispy pancetta or bacon and fresh parsley."
+      },
+      {
+        "id": 2,
+        "name": "Chicken Alfredo",
+        "image": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "experiance" : 10,
+        "like" : 53,
+        "rating": 4.6,
+        "ingredients": [
+          "1 pound fettuccine",
+          "1 pound chicken breast, cut into bite-sized pieces",
+          "4 cloves garlic, minced",
+          "1/2 cup butter",
+          "2 cups heavy cream",
+          "1 cup freshly grated Parmesan cheese",
+          "Salt and freshly ground black pepper",
+          "Chopped fresh parsley, for garnish"
+        ],
+        "recipes": [
+          "Cook fettuccine according to package instructions.",
+          "In a large skillet, cook chicken over medium-high heat until browned and cooked through. Add garlic and cook until fragrant.",
+          "Add butter to skillet and let melt. Add heavy cream and stir to combine.",
+          "Bring to a simmer and cook until sauce has thickened, about 5 minutes.",
+          "Add Parmesan cheese and stir until melted and well combined. Add salt and pepper to taste.",
+          "Drain fettuccine and add to skillet with chicken and sauce. Toss until well coated. Garnish with chopped parsley."
+        ],
+        "details": "Chicken Alfredo is a popular Italian-American dish that consists of fettuccine noodles"
+      },
+      {
+        "id": 3,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "experiance" : 9,
+        "like" : 63,
+        "rating": 4.8,
+        "ingredients": [
+          "1 pound spaghetti",
+          "8 ounces pancetta or bacon, chopped",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup freshly grated Parmesan cheese",
+          "1/4 cup chopped fresh parsley",
+          "Salt and freshly ground black pepper"
+        ],
+        "recipes": [
+          "Cook spaghetti according to package instructions.",
+          "In a large skillet, cook pancetta or bacon over medium heat until crispy. Add garlic and cook until fragrant.",
+          "In a bowl, whisk together eggs and Parmesan cheese.",
+          "Drain spaghetti and add to the skillet with pancetta/bacon. Remove from heat and let cool for a minute or two.",
+          "Add egg mixture to skillet and toss until spaghetti is coated. Add parsley and season with salt and pepper to taste."
+        ],
+        "details": "Spaghetti carbonara is a classic Italian dish that features a creamy sauce made with eggs and Parmesan cheese. The dish is typically served with crispy pancetta or bacon and fresh parsley."
+      },
+      {
+        "id": 4,
+        "name": "Chicken Alfredo",
+        "image": "https://images.unsplash.com/photo-1611657365907-1ca5d9799f59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "experiance" : 8,
+        "like" : 333,
+        "rating": 3.6,
+        "ingredients": [
+          "1 pound fettuccine",
+          "1 pound chicken breast, cut into bite-sized pieces",
+          "4 cloves garlic, minced",
+          "1/2 cup butter",
+          "2 cups heavy cream",
+          "1 cup freshly grated Parmesan cheese",
+          "Salt and freshly ground black pepper",
+          "Chopped fresh parsley, for garnish"
+        ],
+        "recipes": [
+          "Cook fettuccine according to package instructions.",
+          "In a large skillet, cook chicken over medium-high heat until browned and cooked through. Add garlic and cook until fragrant.",
+          "Add butter to skillet and let melt. Add heavy cream and stir to combine.",
+          "Bring to a simmer and cook until sauce has thickened, about 5 minutes.",
+          "Add Parmesan cheese and stir until melted and well combined. Add salt and pepper to taste.",
+          "Drain fettuccine and add to skillet with chicken and sauce. Toss until well coated. Garnish with chopped parsley."
+        ],
+        "details": "Chicken Alfredo is a popular Italian-American dish that consists of fettuccine noodles"
+      },
+      {
+        "id": 5,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "experiance" : 15,
+        "like" : 599,
+        "rating": 4.0,
+        "ingredients": [
+          "1 pound spaghetti",
+          "8 ounces pancetta or bacon, chopped",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup freshly grated Parmesan cheese",
+          "1/4 cup chopped fresh parsley",
+          "Salt and freshly ground black pepper"
+        ],
+        "recipes": [
+          "Cook spaghetti according to package instructions.",
+          "In a large skillet, cook pancetta or bacon over medium heat until crispy. Add garlic and cook until fragrant.",
+          "In a bowl, whisk together eggs and Parmesan cheese.",
+          "Drain spaghetti and add to the skillet with pancetta/bacon. Remove from heat and let cool for a minute or two.",
+          "Add egg mixture to skillet and toss until spaghetti is coated. Add parsley and season with salt and pepper to taste."
+        ],
+        "details": "Spaghetti carbonara is a classic Italian dish that features a creamy sauce made with eggs and Parmesan cheese. The dish is typically served with crispy pancetta or bacon and fresh parsley."
+      },
+      {
+        "id": 6,
+        "name": "Chicken Alfredo",
+        "image": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "experiance" : 1,
+        "like" : 253,
+        "rating": 3,
+        "ingredients": [
+          "1 pound fettuccine",
+          "1 pound chicken breast, cut into bite-sized pieces",
+          "4 cloves garlic, minced",
+          "1/2 cup butter",
+          "2 cups heavy cream",
+          "1 cup freshly grated Parmesan cheese",
+          "Salt and freshly ground black pepper",
+          "Chopped fresh parsley, for garnish"
+        ],
+        "recipes": [
+          "Cook fettuccine according to package instructions.",
+          "In a large skillet, cook chicken over medium-high heat until browned and cooked through. Add garlic and cook until fragrant.",
+          "Add butter to skillet and let melt. Add heavy cream and stir to combine.",
+          "Bring to a simmer and cook until sauce has thickened, about 5 minutes.",
+          "Add Parmesan cheese and stir until melted and well combined. Add salt and pepper to taste.",
+          "Drain fettuccine and add to skillet with chicken and sauce. Toss until well coated. Garnish with chopped parsley."
+        ],
+        "details": "Chicken Alfredo is a popular Italian-American dish that consists of fettuccine noodles"
+      }
+      
+    ]
+  
+  
